@@ -9,7 +9,8 @@ Este projeto tem como objetivo praticar JavaScript e aprender a tornar as págin
 | :rocket: URL         |https://instrumento-musical-nayrabra.vercel.app/|
 | 💻 Responsividade    | Celular, Tablet e Desktop                      |
 
-<img width="1020" alt="alura-midi" src="https://github.com/nayrabra/instrumento-musical/assets/102299426/e18489b2-e979-4248-9ebd-898e755a4548#vitrinedev">
+<img width="700" alt="alura-midi" src="https://github.com/nayrabra/instrumento-musical/assets/102299426/ccdb89cf-e785-47b4-a3be-cf335377eaae#vitrinedev">
+
 
 ## Entendendo o Funcionamento 
 
